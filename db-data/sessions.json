@@ -1,0 +1,68 @@
+{
+    "101": {
+        "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+        "presentation": "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
+        "complexity": "Beginner",
+        "tags": [
+            "Cloud"
+        ],
+        "speakers": [
+            "mete_atamel",
+            "adrian_kajda"
+        ],
+        "title": "Windows and .NET on Google Cloud Platform ",
+        "language": "English"
+    },
+    "132": {
+        "description": "Get your badge, coffee, enjoy talking with tech edicts around",
+        "icon": "registration",
+        "title": "Registration & morning Coffee",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe"
+    },
+    "133": {
+        "icon": "lunch",
+        "title": "Lunch",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
+        "description": "Foooooooood!"
+    },
+    "134": {
+        "description": "Coffeeeeeee!",
+        "icon": "coffee-break",
+        "title": "Coffee break",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7"
+    },
+    "135": {
+        "title": "Morning coffee",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fmorning.jpg?alt=media&token=d0da3d64-fc63-48c6-9d41-1460451dca64",
+        "description": "Coffeeeeeee!",
+        "icon": "coffee-break"
+    },
+    "136": {
+        "icon": "opening",
+        "title": "GDG DevFest Ukraine 2016 Opening",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
+        "language": "English",
+        "description": "Official start of the conference. Greetings from the organizers, sponsors and partners."
+    },
+    "137": {
+        "description": "Afterparty is a great time to have some fun and meet new people",
+        "icon": "party",
+        "title": "Afterparty & Networking",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1"
+    },
+    "138": {
+        "title": "Conference closing and contest winners announcements",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
+        "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session."
+    },
+    "139": {
+        "description": "",
+        "title": "Keynote",
+        "language": "English"
+    },
+    "140": {
+        "title": "TBD",
+        "language": "English",
+        "description": "TBD"
+    }
+}

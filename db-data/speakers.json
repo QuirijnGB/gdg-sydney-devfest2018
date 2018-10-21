@@ -1,0 +1,45 @@
+{
+    "yonatan_levin": {
+        "shortBio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in...",
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/yonatan_levin.jpg",
+        "name": "Yonatan Levin",
+        "companyLogo": "/images/logos/gdg-lviv.svg",
+        "title": "Android Evangelist & Developer",
+        "photo": "/images/people/yonatan_levin.jpg",
+        "order": 0,
+        "featured": true,
+        "company": "Gett",
+        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "socials": [
+            {
+                "icon": "website",
+                "link": "http://www.wolter.biz",
+                "name": "Website"
+            },
+            {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/levin.yonatan",
+                "name": "Facebook"
+            },
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/parahall"
+            },
+            {
+                "name": "Google+",
+                "icon": "gplus",
+                "link": "https://plus.google.com/+YonatanLevin"
+            }
+        ],
+        "country": "Tel Aviv, Israel",
+        "bio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field.\nYonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts.\nHis primary expertise is Android and Mobile UX, but is also friendly to backend technologies and people in general :)\nFounded and led 3 startups in the past, recently received funding for his new startup which is on the make.\nCurrently, Yonatan is taking a part of the startup Gett - the largest on-demand transportation, delivery, and logistics company which already raised more than $500M",
+        "badges": [
+            {
+                "name": "gde",
+                "description": "Android Google Developer Expert",
+                "link": "https://developers.google.com/experts/people/yonatan-levin.html"
+            }
+        ]
+    }
+}
