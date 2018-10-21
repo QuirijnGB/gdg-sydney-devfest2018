@@ -1,54 +1,34 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv",
+    "name": "GDG Sydney",
+    "twitter": "gdg_sydney",
     "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "url": "https://www.meetup.com/gdgsydney/"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2017-10-08T09:00:00+11:00",
+  "endDate": "2017-10-08T19:00:00+11:00",
   "webapp": {
     "shortName": "DevFest",
-    "themeColor": "#673AB7",
-    "backgroundColor": "#673AB7"
+    "themeColor": "#2196F3",
+    "backgroundColor": "#2196F3"
   },
   "dateFormat": {
-    "locale": "en-US"
+    "locale": "en-EN"
   },
-  "hashtag": "DevFest17",
+  "hashtag": "DevFest18",
   "disabledSchedule": false,
   "navigation": [
     {
       "route": "home",
       "permalink": "/",
       "label": "Home"
-    },
-    {
-      "route": "speakers",
-      "permalink": "/speakers/",
-      "label": "Speakers"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/",
-      "label": "Schedule"
-    },
-    {
-      "route": "team",
-      "permalink": "/team/",
-      "label": "Team"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Blog"
     }
   ],
   "heroSettings": {
     "home": {
-      "description": "Be a hero. Be a GDG!",
+      "description": "",
       "background": {
-        "color": "#673ab7",
+        "color": "#2196F3",
         "image": "/images/backgrounds/home.jpg"
       },
       "fontColor": "#FFF"
@@ -104,7 +84,7 @@
     },
     "cod": {
       "title": "Code Of Conduct",
-      "metaDescription": "Lear more about our expectations for all those who participate in our community",
+      "metaDescription": "Learn more about our expectations for all those who participate in our community",
       "background": {
         "color": "#fff"
       },
@@ -112,21 +92,21 @@
     }
   },
   "location": {
-    "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "label": "NSW Teachers Federation Conference Centre",
+    "name": "NSW Teachers Federation Conference Centre",
+    "city": "Sydney",
+    "short": "Sydney, Australia",
+    "address": "37 Reservoir St, Surry Hills NSW 2010",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 5
+      "latitude": -33.881319,
+      "longitude": 151.2094671,
+      "zoom": 15
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": -33.881319,
+      "longitude": 151.2094671
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "The Federation Conference Centre offers a complete professional conference package in a stylish, contemporary setting."
   },
   "mediaQueries": {
     "xs": {
@@ -147,24 +127,8 @@
   "socialNetwork": {
     "follow": [
       {
-        "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
-      },
-      {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
-      },
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://twitter.com/gdg_sydney/"
       }
     ],
     "share": [
