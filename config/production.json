@@ -1,0 +1,15 @@
+{
+  "basepath": "/",
+  "url": "https://gdg-sydney-devfest2018.firebaseapp.com/",
+  "analytics": "UA-43643469-8",
+  "prefix": "/",
+  "firebase": {
+    "apiKey": "AAAAEmCKtN0:APA91bFlteMMpop-ninpU9oOnEkozSYfRu-f8feylkZvp5wmlMzgjPpDzuv7P-oNa3YpD-ibuA0yEBCoa4yGCspO8R60y-gZaNOdxu0tSWrvOU9_cTx8A62h1dDy65kWJOysJEmlKcHz",
+    "authDomain": "gdg-sydney-devfest2018.firebaseapp.com",
+    "databaseURL": "https://gdg-sydney-devfest2018.firebaseio.com",
+    "projectId": "gdg-sydney-devfest2018",
+    "storageBucket": "gdg-sydney-devfest2018.appspot.com",
+    "messagingSenderId": "78929114333"
+  },
+  "googleMapApiKey": "AIzaSyDWy6O98n-ueoVaYPWRPve23vjm3JP08gw"
+}

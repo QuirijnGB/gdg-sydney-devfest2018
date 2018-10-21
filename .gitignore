@@ -9,4 +9,3 @@ functions/lib/
 .firebaserc
 /appengine/dist/
 serviceAccount.json
-config/
