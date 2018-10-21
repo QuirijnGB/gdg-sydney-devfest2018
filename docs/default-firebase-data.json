@@ -376,35 +376,54 @@
     {
       "members": [
         {
-          "name": "Oleh Zasadnyy",
+          "name": "Quirijn Groot Bluemink",
           "photo": "/images/people/oleh_zasadnyy.jpg",
           "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/oleh_zasadnyy.jpg",
           "socials": [
             {
-              "icon": "gplus",
-              "link": "https://plus.google.com/+OlehZasadnyy",
-              "name": "Google+"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/oleh.zasadnyy",
-              "name": "Facebook"
-            },
-            {
               "icon": "twitter",
-              "link": "https://twitter.com/ozasadnyy",
+              "link": "https://twitter.com/quirijngb",
               "name": "Twitter"
             },
             {
               "icon": "website",
-              "link": "http://o.zasadnyy.com/",
-              "name": "Blog"
+              "link": "http://quirijngb.com/",
+              "name": "Website"
             }
           ],
           "order": 0,
-          "title": "Website and sponsors"
+          "title": "Organiser"
+        },
+        {
+          "name": "Zarah Dominguez",
+          "photo": "/images/people/oleh_zasadnyy.jpg",
+          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/oleh_zasadnyy.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/zarahjutz",
+              "name": "Twitter"
+            }
+          ],
+          "order": 0,
+          "title": "Organiser"
+        },
+        {
+          "name": "Jeroen Tietema",
+          "photo": "/images/people/oleh_zasadnyy.jpg",
+          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/oleh_zasadnyy.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/jtietema",
+              "name": "Twitter"
+            }
+          ],
+          "order": 0,
+          "title": "Organiser"
         }
-      ]
+      ],
+      "title" : "Organisers"
     }
   ],
   "tickets": [
