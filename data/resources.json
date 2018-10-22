@@ -158,7 +158,7 @@
     "previousYear": "Year"
   },
   "speakersBlock": {
-    "title": "Rockstar speakers",
+    "title": "Speakers",
     "callToAction": {
       "label": "View all speakers",
       "link": "/speakers/"
@@ -196,7 +196,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "description": "Google is known all around the world for providing many services. For most people, they are services that just work, but not for engineers. Engineers see much more: APIs, scalability issues, complex technology stacks. And that's what GDG is about.<br><br>GDG Sydney is an open community organised by enthusiastic volunteers. Created to share experiences around Google tech, develop a network of peers and having some fun."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
