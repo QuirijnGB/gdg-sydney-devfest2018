@@ -1,0 +1,15 @@
+{
+    "000": {
+        "info": "Full access to DevFest 2018",
+        "price": 16,
+        "regular": true,
+        "available": true,
+        "url": "https://2event.com/events/1027108",
+        "name": "Regular",
+        "currency": "$",
+        "inDemand": true,
+        "soldOut": false,
+        "order": "1",
+        "primary": true
+    }
+}
