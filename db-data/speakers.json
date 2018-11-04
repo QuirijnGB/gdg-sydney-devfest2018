@@ -1,44 +1,86 @@
 {
-    "yonatan_levin": {
-        "shortBio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in...",
-        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/yonatan_levin.jpg",
-        "name": "Yonatan Levin",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "title": "Android Evangelist & Developer",
-        "photo": "/images/people/yonatan_levin.jpg",
+    "ankur_kotwal": {
+        "shortBio": "Ankur is a developer advocate on the Google Cloud developer relations team, where he champions the developer experience on the Google Cloud Platform. Previously, Ankur lead the Google Maps developer relations team where he helped launch the Google Maps APIs gaming offering. Ankur has also been the product manager and software engineer for Google Santa Tracker on Android, an annual tradition focusing on bringing holiday joy through fun and games.",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fankur_kotwal.jpg?alt=media&token=b46c9423-f32e-4f70-a083-5a3834fd62ee",
+        "name": "Ankur Kotwal",
+        "companyLogo": "/images/logos/google.svg",
+        "title": "Developer Advocate - Google Cloud Platform",
         "order": 0,
         "featured": true,
-        "company": "Gett",
-        "companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+        "company": "Google",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/company_logos%2Fgoogle.svg?alt=media&token=fedcc460-8906-43ea-adc5-8ce0ac07af31",
         "socials": [
-            {
-                "icon": "website",
-                "link": "http://www.wolter.biz",
-                "name": "Website"
-            },
-            {
-                "icon": "facebook",
-                "link": "https://www.facebook.com/levin.yonatan",
-                "name": "Facebook"
-            },
             {
                 "name": "Twitter",
                 "icon": "twitter",
-                "link": "https://twitter.com/parahall"
-            },
-            {
-                "name": "Google+",
-                "icon": "gplus",
-                "link": "https://plus.google.com/+YonatanLevin"
+                "link": "https://twitter.com/ankurkotwal"
             }
         ],
-        "country": "Tel Aviv, Israel",
-        "bio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field.\nYonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts.\nHis primary expertise is Android and Mobile UX, but is also friendly to backend technologies and people in general :)\nFounded and led 3 startups in the past, recently received funding for his new startup which is on the make.\nCurrently, Yonatan is taking a part of the startup Gett - the largest on-demand transportation, delivery, and logistics company which already raised more than $500M",
+        "country": "Sydney, Australia",
+        "bio": "Ankur is a developer advocate on the Google Cloud developer relations team, where he champions the developer experience on the Google Cloud Platform. Previously, Ankur lead the Google Maps developer relations team where he helped launch the Google Maps APIs gaming offering. Ankur has also been the product manager and software engineer for Google Santa Tracker on Android, an annual tradition focusing on bringing holiday joy through fun and games.",
+        "badges": []
+    },
+    "azadeh_khojandi": {
+        "shortBio": "Microsoft Software engineer and Sitecore MVP 2017 with more than 10 years experience across a range of diverse and exciting web and mobile solutions. Az is co-organiser of girls geek Sydney and SheHacks. Az has worked with clients including Vodafone, KFC Australia, Sydney Airport, Lend Lease, Sydney Olympic Park. Az is a member of Asia’s Machine learning tech domain at Microsoft. She is TechLead/ full stack developer and she can code in C#, JavaScript, Typescript and Python. she is familiar with Keras, TensorFlow and Pytorch. Az has presented in few local and international tech conferences about Chatbots, AI and Machine learning.",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fazadeh_khojandi.png?alt=media&token=7984c2ac-a9f0-405a-a990-2b922eb2efb1",
+        "name": "Azadeh Khojandi",
+        "title": "Tech evangelist",
+        "order": 1,
+        "featured": true,
+        "company": "Microsoft",
+        "socials": [
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/azadehkhojandi"
+            }
+        ],
+        "country": "Sydney, Australia",
+        "bio": "Microsoft Software engineer and Sitecore MVP 2017 with more than 10 years experience across a range of diverse and exciting web and mobile solutions. Az is co-organiser of girls geek Sydney and SheHacks. Az has worked with clients including Vodafone, KFC Australia, Sydney Airport, Lend Lease, Sydney Olympic Park. Az is a member of Asia’s Machine learning tech domain at Microsoft. She is TechLead/ full stack developer and she can code in C#, JavaScript, Typescript and Python. she is familiar with Keras, TensorFlow and Pytorch. Az has presented in few local and international tech conferences about Chatbots, AI and Machine learning.",
+        "badges": []
+    },
+    "brett_morgan": {
+        "shortBio": "Brett is a developer relations engineer with Google Sydney, where he works on Google Maps APIs by day, and plays happily with Flutter by night. Brett has done everything from system administration of 25,000 user Solaris machines to designing e-commerce solutions for large Australian industrial suppliers.",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fbrett_morgan.png?alt=media&token=12ce3caf-63ee-4c9e-96f9-ce8e770c7397",
+        "name": "Brett Morgan",
+        "companyLogo": "/images/logos/google.svg",
+        "title": "Developer Relations Engineer, Geocommerce",
+        "order": 2,
+        "featured": true,
+        "company": "Google",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/company_logos%2Fgoogle.svg?alt=media&token=fedcc460-8906-43ea-adc5-8ce0ac07af31",
+        "socials": [
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/DomesticMouse"
+            }
+        ],
+        "country": "Sydney, Australia",
+        "bio": "Brett is a developer relations engineer with Google Sydney, where he works on Google Maps APIs by day, and plays happily with Flutter by night. Brett has done everything from system administration of 25,000 user Solaris machines to designing e-commerce solutions for large Australian industrial suppliers.",
+        "badges": []
+    }, 
+    "graham_polley": {
+        "shortBio": "Graham is a software engineer based out of Melbourne Australia. He's passionate about advocating for the adoption of cloud to build software solutions. An active member in the local community, he regularly blogs, gives presentations, and is a co-organiser of the Melbourne GCP user group. Graham has extensive experience in building data solutions for clients using GCP - in particular with BigQuery, Cloud Dataflow and Cloud Dataproc. He works very closely with the GCP engineering teams, where he's also a member of their cloud platform trusted tester program, and the solutions he helps build are used as internal exemplars of developer use cases.",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fgraham_polley.jpg?alt=media&token=0a5df7b3-e513-4778-a8c1-eadfb41feb7c",
+        "name": "Graham Polley",
+        "title": "Software engineer",
+        "order": 3,
+        "featured": true,
+        "socials": [
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/polleyg"
+            }
+        ],
+        "country": "Melbourne, Australia",
+        "bio": "Graham is a software engineer based out of Melbourne Australia. He's passionate about advocating for the adoption of cloud to build software solutions. An active member in the local community, he regularly blogs, gives presentations, and is a co-organiser of the Melbourne GCP user group. Graham has extensive experience in building data solutions for clients using GCP - in particular with BigQuery, Cloud Dataflow and Cloud Dataproc. He works very closely with the GCP engineering teams, where he's also a member of their cloud platform trusted tester program, and the solutions he helps build are used as internal exemplars of developer use cases.",
         "badges": [
             {
-                "name": "gde",
-                "description": "Android Google Developer Expert",
-                "link": "https://developers.google.com/experts/people/yonatan-levin.html"
+              "description": "Google Cloud Platform Google Developer Expert",
+              "link": "https://developers.google.com/experts/people/graham-polley",
+              "name": "gde"
             }
         ]
     }
