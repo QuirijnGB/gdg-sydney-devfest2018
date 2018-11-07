@@ -21,13 +21,7 @@
         "badges": []
     },
     "azadeh_khojandi": {
-        "shortBio": "Microsoft Software engineer and Sitecore MVP 2017 with more than 10 years experience across a range of diverse and exciting web and mobile solutions. Az is co-organiser of girls geek Sydney and SheHacks. Az has worked with clients including Vodafone, KFC Australia, Sydney Airport, Lend Lease, Sydney Olympic Park. Az is a member of Asia’s Machine learning tech domain at Microsoft. She is TechLead/ full stack developer and she can code in C#, JavaScript, Typescript and Python. she is familiar with Keras, TensorFlow and Pytorch. Az has presented in few local and international tech conferences about Chatbots, AI and Machine learning.",
         "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fazadeh_khojandi.png?alt=media&token=7984c2ac-a9f0-405a-a990-2b922eb2efb1",
-        "name": "Azadeh Khojandi",
-        "title": "Tech evangelist",
-        "order": 1,
-        "featured": true,
-        "company": "Microsoft",
         "socials": [
             {
                 "name": "Twitter",
@@ -35,9 +29,15 @@
                 "link": "https://twitter.com/azadehkhojandi"
             }
         ],
+        "name": "Azadeh Khojandi",
         "country": "Sydney, Australia",
         "bio": "Microsoft Software engineer and Sitecore MVP 2017 with more than 10 years experience across a range of diverse and exciting web and mobile solutions. Az is co-organiser of girls geek Sydney and SheHacks. Az has worked with clients including Vodafone, KFC Australia, Sydney Airport, Lend Lease, Sydney Olympic Park. Az is a member of Asia’s Machine learning tech domain at Microsoft. She is TechLead/ full stack developer and she can code in C#, JavaScript, Typescript and Python. she is familiar with Keras, TensorFlow and Pytorch. Az has presented in few local and international tech conferences about Chatbots, AI and Machine learning.",
-        "badges": []
+        "badges": [],
+        "title": "Tech evangelist",
+        "order": 1,
+        "featured": true,
+        "shortBio": "Microsoft Software engineer and Sitecore MVP 2017 with more than 10 years experience across a range of diverse and exciting web and mobile solutions. Az is co-organiser of girls geek Sydney and SheHacks. Az has worked with clients including Vodafone, KFC Australia, Sydney Airport, Lend Lease, Sydney Olympic Park. Az is a member of Asia’s Machine learning tech domain at Microsoft. She is TechLead/ full stack developer and she can code in C#, JavaScript, Typescript and Python. she is familiar with Keras, TensorFlow and Pytorch. Az has presented in few local and international tech conferences about Chatbots, AI and Machine learning.",
+        "company": "Microsoft"
     },
     "brett_morgan": {
         "shortBio": "Brett is a developer relations engineer with Google Sydney, where he works on Google Maps APIs by day, and plays happily with Flutter by night. Brett has done everything from system administration of 25,000 user Solaris machines to designing e-commerce solutions for large Australian industrial suppliers.",
@@ -61,27 +61,28 @@
         "badges": []
     }, 
     "graham_polley": {
-        "shortBio": "Graham is a software engineer based out of Melbourne Australia. He's passionate about advocating for the adoption of cloud to build software solutions. An active member in the local community, he regularly blogs, gives presentations, and is a co-organiser of the Melbourne GCP user group. Graham has extensive experience in building data solutions for clients using GCP - in particular with BigQuery, Cloud Dataflow and Cloud Dataproc. He works very closely with the GCP engineering teams, where he's also a member of their cloud platform trusted tester program, and the solutions he helps build are used as internal exemplars of developer use cases.",
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fgraham_polley.jpg?alt=media&token=0a5df7b3-e513-4778-a8c1-eadfb41feb7c",
-        "name": "Graham Polley",
-        "title": "Software engineer",
         "order": 3,
         "featured": true,
+        "shortBio": "Graham is a software engineer based out of Melbourne Australia. He's passionate about advocating for the adoption of cloud to build software solutions. An active member in the local community, he regularly blogs, gives presentations, and is a co-organiser of the Melbourne GCP user group. Graham has extensive experience in building data solutions for clients using GCP - in particular with BigQuery, Cloud Dataflow and Cloud Dataproc. He works very closely with the GCP engineering teams, where he's also a member of their cloud platform trusted tester program, and the solutions he helps build are used as internal exemplars of developer use cases.",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/company_logos%2Fservian.jpeg?alt=media&token=fd8eb0c1-e8bb-4f6c-b12d-2239cbd273ac",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fgraham_polley.jpg?alt=media&token=0a5df7b3-e513-4778-a8c1-eadfb41feb7c",
         "socials": [
             {
-                "name": "Twitter",
                 "icon": "twitter",
-                "link": "https://twitter.com/polleyg"
+                "link": "https://twitter.com/polleyg",
+                "name": "Twitter"
             }
         ],
+        "name": "Graham Polley",
         "country": "Melbourne, Australia",
         "bio": "Graham is a software engineer based out of Melbourne Australia. He's passionate about advocating for the adoption of cloud to build software solutions. An active member in the local community, he regularly blogs, gives presentations, and is a co-organiser of the Melbourne GCP user group. Graham has extensive experience in building data solutions for clients using GCP - in particular with BigQuery, Cloud Dataflow and Cloud Dataproc. He works very closely with the GCP engineering teams, where he's also a member of their cloud platform trusted tester program, and the solutions he helps build are used as internal exemplars of developer use cases.",
         "badges": [
             {
-              "description": "Google Cloud Platform Google Developer Expert",
-              "link": "https://developers.google.com/experts/people/graham-polley",
-              "name": "gde"
+                "link": "https://developers.google.com/experts/people/graham-polley",
+                "name": "gde",
+                "description": "Google Cloud Platform Google Developer Expert"
             }
-        ]
+        ],
+        "title": "Software engineer"
     }
 }
