@@ -61,8 +61,28 @@
         "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fbrett_morgan.png?alt=media&token=12ce3caf-63ee-4c9e-96f9-ce8e770c7397",
         "name": "Brett Morgan"
     },
-    "graham_polley": {
+    "̈georgina_robilliard": {
         "order": 3,
+        "featured": true,
+        "shortBio": "Georgina builds happy and productive work environments. Formerly of Lookahead Search, currently Head of People and Culture at Insured By Us. Cheese, wine and sausage dog enthusiast.",
+        "company": "Insured By Us",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fgeorgina_robilliard.jpg?alt=media&token=f75c9222-f2c3-4aca-822d-a94579259b93",
+        "socials": [
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/GRobilliard"
+            }
+        ],
+        "name": "Georgina Robilliard",
+        "country": "Sydney, Australia",
+        "bio": "Georgina builds happy and productive work environments. Formerly of Lookahead Search, currently Head of People and Culture at Insured By Us. Cheese, wine and sausage dog enthusiast.",
+        "badges": [
+        ],
+        "title": "Head of People and Culture"
+    },
+    "graham_polley": {
+        "order": 4,
         "featured": true,
         "shortBio": "Graham is a software engineer based out of Melbourne Australia. He's passionate about advocating for the adoption of cloud to build software solutions. An active member in the local community, he regularly blogs, gives presentations, and is a co-organiser of the Melbourne GCP user group. Graham has extensive experience in building data solutions for clients using GCP - in particular with BigQuery, Cloud Dataflow and Cloud Dataproc. He works very closely with the GCP engineering teams, where he's also a member of their cloud platform trusted tester program, and the solutions he helps build are used as internal exemplars of developer use cases.",
         "company": "Servian",
@@ -88,7 +108,7 @@
         "title": "Software engineer"
     },
     "sergii_kozyrev": {
-        "order": 4,
+        "order": 5,
         "featured": true,
         "shortBio": "Senior Android Engineer at Atlassian. Currently working in Mobile Core team ensuring our customers are getting best libraries and tools to solve their business needs. I use Java and Python and passionate about mobile development, ubiquitous computing, machine learning, augmented and virtual reality. I love the way technology can bring magic into our lives and love to share my thoughts on this with others :)",
         "company": "Atlassian",
