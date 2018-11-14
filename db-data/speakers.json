@@ -1,5 +1,6 @@
 {
     "ankur_kotwal": {
+        "badges": [],
         "shortBio": "Ankur is a developer advocate on the Google Cloud developer relations team, where he champions the developer experience on the Google Cloud Platform. Previously, Ankur lead the Google Maps developer relations team where he helped launch the Google Maps APIs gaming offering. Ankur has also been the product manager and software engineer for Google Santa Tracker on Android, an annual tradition focusing on bringing holiday joy through fun and games.",
         "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fankur_kotwal.jpg?alt=media&token=b46c9423-f32e-4f70-a083-5a3834fd62ee",
         "name": "Ankur Kotwal",
@@ -11,17 +12,21 @@
         "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/company_logos%2Fgoogle.svg?alt=media&token=fedcc460-8906-43ea-adc5-8ce0ac07af31",
         "socials": [
             {
-                "name": "Twitter",
                 "icon": "twitter",
-                "link": "https://twitter.com/ankurkotwal"
+                "link": "https://twitter.com/ankurkotwal",
+                "name": "Twitter"
             }
         ],
         "country": "Sydney, Australia",
-        "bio": "Ankur is a developer advocate on the Google Cloud developer relations team, where he champions the developer experience on the Google Cloud Platform. Previously, Ankur lead the Google Maps developer relations team where he helped launch the Google Maps APIs gaming offering. Ankur has also been the product manager and software engineer for Google Santa Tracker on Android, an annual tradition focusing on bringing holiday joy through fun and games.",
-        "badges": []
+        "bio": "Ankur is a developer advocate on the Google Cloud developer relations team, where he champions the developer experience on the Google Cloud Platform. Previously, Ankur lead the Google Maps developer relations team where he helped launch the Google Maps APIs gaming offering. Ankur has also been the product manager and software engineer for Google Santa Tracker on Android, an annual tradition focusing on bringing holiday joy through fun and games."
     },
     "azadeh_khojandi": {
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fazadeh_khojandi.png?alt=media&token=7984c2ac-a9f0-405a-a990-2b922eb2efb1",
+        "title": "Tech evangelist",
+        "order": 1,
+        "featured": true,
+        "company": "Microsoft",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/company_logos%2Fmicrosoft.png?alt=media&token=ce3f08c9-2d2c-4c58-8d50-931c5e406c99",
+        "country": "Sydney, Australia",
         "socials": [
             {
                 "name": "Twitter",
@@ -29,22 +34,15 @@
                 "link": "https://twitter.com/azadehkhojandi"
             }
         ],
-        "name": "Azadeh Khojandi",
-        "country": "Sydney, Australia",
         "bio": "Microsoft Software engineer and Sitecore MVP 2017 with more than 10 years experience across a range of diverse and exciting web and mobile solutions. Az is co-organiser of girls geek Sydney and SheHacks. Az has worked with clients including Vodafone, KFC Australia, Sydney Airport, Lend Lease, Sydney Olympic Park. Az is a member of Asia’s Machine learning tech domain at Microsoft. She is TechLead/ full stack developer and she can code in C#, JavaScript, Typescript and Python. she is familiar with Keras, TensorFlow and Pytorch. Az has presented in few local and international tech conferences about Chatbots, AI and Machine learning.",
         "badges": [],
-        "title": "Tech evangelist",
-        "order": 1,
-        "featured": true,
         "shortBio": "Microsoft Software engineer and Sitecore MVP 2017 with more than 10 years experience across a range of diverse and exciting web and mobile solutions. Az is co-organiser of girls geek Sydney and SheHacks. Az has worked with clients including Vodafone, KFC Australia, Sydney Airport, Lend Lease, Sydney Olympic Park. Az is a member of Asia’s Machine learning tech domain at Microsoft. She is TechLead/ full stack developer and she can code in C#, JavaScript, Typescript and Python. she is familiar with Keras, TensorFlow and Pytorch. Az has presented in few local and international tech conferences about Chatbots, AI and Machine learning.",
-        "company": "Microsoft"
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fazadeh_khojandi.png?alt=media&token=7984c2ac-a9f0-405a-a990-2b922eb2efb1",
+        "name": "Azadeh Khojandi"
     },
     "brett_morgan": {
-        "shortBio": "Brett is a developer relations engineer with Google Sydney, where he works on Google Maps APIs by day, and plays happily with Flutter by night. Brett has done everything from system administration of 25,000 user Solaris machines to designing e-commerce solutions for large Australian industrial suppliers.",
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fbrett_morgan.png?alt=media&token=12ce3caf-63ee-4c9e-96f9-ce8e770c7397",
-        "name": "Brett Morgan",
         "companyLogo": "/images/logos/google.svg",
-        "title": "Developer Relations Engineer, Geocommerce",
+        "title": "Developer Relations Engineer",
         "order": 2,
         "featured": true,
         "company": "Google",
@@ -58,19 +56,23 @@
         ],
         "country": "Sydney, Australia",
         "bio": "Brett is a developer relations engineer with Google Sydney, where he works on Google Maps APIs by day, and plays happily with Flutter by night. Brett has done everything from system administration of 25,000 user Solaris machines to designing e-commerce solutions for large Australian industrial suppliers.",
-        "badges": []
-    }, 
+        "badges": [],
+        "shortBio": "Brett is a developer relations engineer with Google Sydney, where he works on Google Maps APIs by day, and plays happily with Flutter by night. Brett has done everything from system administration of 25,000 user Solaris machines to designing e-commerce solutions for large Australian industrial suppliers.",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fbrett_morgan.png?alt=media&token=12ce3caf-63ee-4c9e-96f9-ce8e770c7397",
+        "name": "Brett Morgan"
+    },
     "graham_polley": {
         "order": 3,
         "featured": true,
         "shortBio": "Graham is a software engineer based out of Melbourne Australia. He's passionate about advocating for the adoption of cloud to build software solutions. An active member in the local community, he regularly blogs, gives presentations, and is a co-organiser of the Melbourne GCP user group. Graham has extensive experience in building data solutions for clients using GCP - in particular with BigQuery, Cloud Dataflow and Cloud Dataproc. He works very closely with the GCP engineering teams, where he's also a member of their cloud platform trusted tester program, and the solutions he helps build are used as internal exemplars of developer use cases.",
+        "company": "Servian",
         "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/company_logos%2Fservian.jpeg?alt=media&token=fd8eb0c1-e8bb-4f6c-b12d-2239cbd273ac",
         "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fgraham_polley.jpg?alt=media&token=0a5df7b3-e513-4778-a8c1-eadfb41feb7c",
         "socials": [
             {
+                "name": "Twitter",
                 "icon": "twitter",
-                "link": "https://twitter.com/polleyg",
-                "name": "Twitter"
+                "link": "https://twitter.com/polleyg"
             }
         ],
         "name": "Graham Polley",
@@ -78,11 +80,31 @@
         "bio": "Graham is a software engineer based out of Melbourne Australia. He's passionate about advocating for the adoption of cloud to build software solutions. An active member in the local community, he regularly blogs, gives presentations, and is a co-organiser of the Melbourne GCP user group. Graham has extensive experience in building data solutions for clients using GCP - in particular with BigQuery, Cloud Dataflow and Cloud Dataproc. He works very closely with the GCP engineering teams, where he's also a member of their cloud platform trusted tester program, and the solutions he helps build are used as internal exemplars of developer use cases.",
         "badges": [
             {
-                "link": "https://developers.google.com/experts/people/graham-polley",
                 "name": "gde",
-                "description": "Google Cloud Platform Google Developer Expert"
+                "description": "Google Cloud Platform Google Developer Expert",
+                "link": "https://developers.google.com/experts/people/graham-polley"
             }
         ],
         "title": "Software engineer"
+    },
+    "sergii_kozyrev": {
+        "order": 4,
+        "featured": true,
+        "shortBio": "Senior Android Engineer at Atlassian. Currently working in Mobile Core team ensuring our customers are getting best libraries and tools to solve their business needs. I use Java and Python and passionate about mobile development, ubiquitous computing, machine learning, augmented and virtual reality. I love the way technology can bring magic into our lives and love to share my thoughts on this with others :)",
+        "company": "Atlassian",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/company_logos%2Fatlassian.svg?alt=media&token=705f5e75-6daa-48aa-9cdd-76747f151e85",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fsergii_kozyrev.jpg?alt=media&token=3167db27-6dd9-44c7-a7ad-badb63aa64c1",
+        "socials": [
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/kozyrevsergey89"
+            }
+        ],
+        "name": "Sergii Kozyrev",
+        "country": "Sydney, Australia",
+        "bio": "Senior Android Engineer at Atlassian. Currently working in Mobile Core team ensuring our customers are getting best libraries and tools to solve their business needs. I use Java and Python and passionate about mobile development, ubiquitous computing, machine learning, augmented and virtual reality. I love the way technology can bring magic into our lives and love to share my thoughts on this with others :)",
+        "badges": [],
+        "title": "Senior software engineer"
     }
 }
