@@ -44,6 +44,18 @@
             "azadeh_khojandi"
         ]
     },
+    "005": {
+        "title": "ARCore \"Shared 3D Worlds\"",
+        "description": "This talk first quickly covers intro to Augmented Reality concept. Then covering current base ARCore capabilities. Then talk about rich 3D content and hard life adding this 3D content into apps. Then moving to possible solutions of 3D content problem - Unity, Unreal Engine, SceneForm (Demo). Finally, having rich 3D content in place talk will cover the ways how we can share 3D scenes for multiple users - demonstrating this with ARCore Cloud Anchors (Demo).",
+        "complexity": "Intermediate",
+        "tags": [
+            "Android",
+            "Augmented Reality"
+        ],
+        "speakers": [
+            "sergii_kozyrev"
+        ]
+    },
     "132": {
         "description": "Get your badge, coffee, enjoy talking with tech edicts around",
         "icon": "registration",
