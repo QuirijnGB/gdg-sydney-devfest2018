@@ -61,8 +61,29 @@
         "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fbrett_morgan.png?alt=media&token=12ce3caf-63ee-4c9e-96f9-ce8e770c7397",
         "name": "Brett Morgan"
     },
-    "̈georgie_luhur_cooke": {
+    "elizabeth_wu": {
         "order": 3,
+        "featured": true,
+        "shortBio": "Elizabeth Wu is a Cloud Consultant in Big Data and Analytics within the Professional Services Organisaton of Google Australia. In this role she helps customers to accelerate their journey to the cloud. Elizabeth has over 10 years experience helping organisations across a wide range of industries including Government, Education, Financial Services, Utilities and Healthcare solve their strategic challenges by making their data accessible and useful.",
+        "company": "Google",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/company_logos%2Fgoogle.svg?alt=media&token=fedcc460-8906-43ea-adc5-8ce0ac07af31",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Felizabeth_wu.jpg?alt=media&token=64c82feb-2f86-438c-b67e-336896f7cbb7",
+        "socials": [
+            {
+                "name": "LinkedIn",
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/elizabethwu"
+            }
+        ],
+        "name": "Elizabeth Wu",
+        "country": "Australia",
+        "bio": "Elizabeth Wu is a Cloud Consultant in Big Data and Analytics within the Professional Services Organisaton of Google Australia. In this role she helps customers to accelerate their journey to the cloud. Elizabeth has over 10 years experience helping organisations across a wide range of industries including Government, Education, Financial Services, Utilities and Healthcare solve their strategic challenges by making their data accessible and useful.",
+        "badges": [
+        ],
+        "title": "Cloud Consultant"
+    },
+    "̈georgie_luhur_cooke": {
+        "order": 4,
         "featured": true,
         "shortBio": "Georgie is a user interface engineer at Campaign Monitor and also co-organises the codebar Sydney meetup. She cares deeply about accessibility and semantic code, and is always keen to learn. She really enjoys blogging and writing about many topics, and is extremely passionate about bringing up other women in tech. She loves expressing herself through fashion, and embraces a minimalist lifestyle. In her spare time she is probably at the gym, enjoying nature, or blogging.",
         "company": "Campaign Monitor",
@@ -82,7 +103,7 @@
         "title": "User interface engineer"
     },
     "̈georgina_robilliard": {
-        "order": 4,
+        "order": 5,
         "featured": true,
         "shortBio": "Georgina builds happy and productive work environments. Formerly of Lookahead Search, currently Head of People and Culture at Insured By Us. Cheese, wine and sausage dog enthusiast.",
         "company": "Insured By Us",
@@ -102,7 +123,7 @@
         "title": "Head of People and Culture"
     },
     "graham_polley": {
-        "order": 5,
+        "order": 6,
         "featured": true,
         "shortBio": "Graham is a software engineer based out of Melbourne Australia. He's passionate about advocating for the adoption of cloud to build software solutions. An active member in the local community, he regularly blogs, gives presentations, and is a co-organiser of the Melbourne GCP user group. Graham has extensive experience in building data solutions for clients using GCP - in particular with BigQuery, Cloud Dataflow and Cloud Dataproc. He works very closely with the GCP engineering teams, where he's also a member of their cloud platform trusted tester program, and the solutions he helps build are used as internal exemplars of developer use cases.",
         "company": "Servian",
@@ -128,7 +149,7 @@
         "title": "Software engineer"
     },
     "sergii_kozyrev": {
-        "order": 6,
+        "order": 7,
         "featured": true,
         "shortBio": "Senior Android Engineer at Atlassian. Currently working in Mobile Core team ensuring our customers are getting best libraries and tools to solve their business needs. I use Java and Python and passionate about mobile development, ubiquitous computing, machine learning, augmented and virtual reality. I love the way technology can bring magic into our lives and love to share my thoughts on this with others :)",
         "company": "Atlassian",
