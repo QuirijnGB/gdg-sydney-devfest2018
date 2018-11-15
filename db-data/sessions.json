@@ -1,17 +1,48 @@
 {
-    "101": {
-        "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
-        "presentation": "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
+    "001": {
+        "title": "Introduction to Flutter",
+        "description": "Flutter is Google’s mobile app SDK for crafting high-quality native interfaces on iOS and Android in record time. Come along to learn how to get started with Flutter as we demonstrate building a small mobile application live on stage.",
         "complexity": "Beginner",
+        "tags": [
+            "Flutter"
+        ],
+        "speakers": [
+            "brett_morgan"
+        ]
+    },
+    "002": {
+        "title": "You might not need Kubernetes and GKE",
+        "description": "Kubernetes & GKE isn't always the best tool for the job. It's actually complex, has a steep learning curve, and requires really smart people to make it secure. Then there's service mesh layers like Istio to consider too. PaaS services on the other hand allow average Joe developers like myself look really smart because it's so easy and quick to spin up solutions in the cloud. In this presentation, I'll give an intro to some of the core serverless tools on Google Cloud for building real-time streaming pipelines at massive scale, Once we get the mandatory (boring) slides out of the way, we'll deep dive into the tech with a live demo, and code up a full solution that reads a live Twitter stream and pumps into GCP for analysis in real-time. The talk will cover App Engine Flex (containers), PubSub, Dataflow and BigQuery and Data Studio, and all tied together using Cloud Build. What could possibly go wrong?",
+        "complexity": "Intermediate",
         "tags": [
             "Cloud"
         ],
         "speakers": [
-            "mete_atamel",
-            "adrian_kajda"
+            "graham_polley"
+        ]
+    },
+    "003": {
+        "title": "Practical Machine Learning for everyone",
+        "description": "Machine learning (ML) is changing the way we write software and helping us solve new problems. In this session, you'll learn about how using ML can be as simple as consuming an API. You'll also learn how to bring your own dataset, have an ML model built for you and exposed as a REST API endpoint.",
+        "complexity": "Beginner",
+        "tags": [
+            "Machine Learning"
         ],
-        "title": "Windows and .NET on Google Cloud Platform ",
-        "language": "English"
+        "speakers": [
+            "ankur_kotwal"
+        ]
+    },
+    "004": {
+        "title": "Finding Nemo",
+        "description": "Imagine you are a marine biologist! On weekly basis, you go to specific spots in the ocean to study fish diversity, abundance and behaviour of species over time. You use Baited Remote Underwater Video, or “BRUV” to record what’s happening underwater. You need to classify recorded videos based on date, time and location of the recording. Your task is watching videos frame by frame and write done on which frame you saw fish or any activates. This process is labour intensive and it’s not fun! In this talk you will see how you can benefit from Tensorflow Object Detection API to detect fish in body of water.",
+        "complexity": "Intermediate",
+        "tags": [
+            "Cloud",
+            "Machine Learning"
+        ],
+        "speakers": [
+            "azadeh_khojandi"
+        ]
     },
     "132": {
         "description": "Get your badge, coffee, enjoy talking with tech edicts around",
