@@ -67,6 +67,17 @@
             "elizabeth_wu"
         ]
     },
+    "007": {
+        "title": "Setting up remote teams for success",
+        "description": "Technology teams no longer need to be co-located to make great software, but creating a positive working culture for a remote team requires creative thinking. The team at Insured by Us is spread across 12 locations and 5 timezones and we've learned a few things along the way. In this talk I will share a few techniques we've adopted in helping us create a flexible, remote-first working environment.",
+        "complexity": "Beginner",
+        "tags": [
+            "Self and Team Improvement"
+        ],
+        "speakers": [
+            "georgina_robilliard"
+        ]
+    },
     "132": {
         "description": "Get your badge, coffee, enjoy talking with tech edicts around",
         "icon": "registration",
