@@ -56,6 +56,17 @@
             "sergii_kozyrev"
         ]
     },
+    "006": {
+        "title": "IoT with Data & Analytics",
+        "description": "In this talk, we'll demo how to get data from an IoT device, read it in and display it in a dashboard. The focus in the course is on creating a data analytics pipeline, so this is a good course for beginners in the area who want to understand how the different services can work together.",
+        "complexity": "Beginner",
+        "tags": [
+            "Cloud"
+        ],
+        "speakers": [
+            "elizabeth_wu"
+        ]
+    },
     "132": {
         "description": "Get your badge, coffee, enjoy talking with tech edicts around",
         "icon": "registration",
