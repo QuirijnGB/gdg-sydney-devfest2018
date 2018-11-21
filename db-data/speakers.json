@@ -1,24 +1,24 @@
 {
     "ankur_kotwal": {
-        "badges": [],
-        "shortBio": "Ankur is a developer advocate on the Google Cloud developer relations team, where he champions the developer experience on the Google Cloud Platform. Previously, Ankur lead the Google Maps developer relations team where he helped launch the Google Maps APIs gaming offering. Ankur has also been the product manager and software engineer for Google Santa Tracker on Android, an annual tradition focusing on bringing holiday joy through fun and games.",
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fankur_kotwal.jpg?alt=media&token=b46c9423-f32e-4f70-a083-5a3834fd62ee",
-        "name": "Ankur Kotwal",
-        "companyLogo": "/images/logos/google.svg",
-        "title": "Developer Advocate - Google Cloud Platform",
         "order": 0,
         "featured": true,
         "company": "Google",
         "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/company_logos%2Fgoogle.svg?alt=media&token=fedcc460-8906-43ea-adc5-8ce0ac07af31",
         "socials": [
             {
+                "name": "Twitter",
                 "icon": "twitter",
-                "link": "https://twitter.com/ankurkotwal",
-                "name": "Twitter"
+                "link": "https://twitter.com/ankurkotwal"
             }
         ],
         "country": "Sydney, Australia",
-        "bio": "Ankur is a developer advocate on the Google Cloud developer relations team, where he champions the developer experience on the Google Cloud Platform. Previously, Ankur lead the Google Maps developer relations team where he helped launch the Google Maps APIs gaming offering. Ankur has also been the product manager and software engineer for Google Santa Tracker on Android, an annual tradition focusing on bringing holiday joy through fun and games."
+        "bio": "Ankur is a developer advocate on the Google Cloud developer relations team, where he champions the developer experience on the Google Cloud Platform. Previously, Ankur lead the Google Maps developer relations team where he helped launch the Google Maps APIs gaming offering. Ankur has also been the product manager and software engineer for Google Santa Tracker on Android, an annual tradition focusing on bringing holiday joy through fun and games.",
+        "badges": [],
+        "shortBio": "Ankur is a developer advocate on the Google Cloud developer relations team, where he champions the developer experience on the Google Cloud Platform. Previously, Ankur lead the Google Maps developer relations team where he helped launch the Google Maps APIs gaming offering. Ankur has also been the product manager and software engineer for Google Santa Tracker on Android, an annual tradition focusing on bringing holiday joy through fun and games.",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fankur_kotwal.jpg?alt=media&token=b46c9423-f32e-4f70-a083-5a3834fd62ee",
+        "name": "Ankur Kotwal",
+        "companyLogo": "/images/logos/google.svg",
+        "title": "Developer Advocate - Google Cloud Platform"
     },
     "azadeh_khojandi": {
         "title": "Tech evangelist",
@@ -41,12 +41,6 @@
         "name": "Azadeh Khojandi"
     },
     "brett_morgan": {
-        "companyLogo": "/images/logos/google.svg",
-        "title": "Developer Relations Engineer",
-        "order": 2,
-        "featured": true,
-        "company": "Google",
-        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/company_logos%2Fgoogle.svg?alt=media&token=fedcc460-8906-43ea-adc5-8ce0ac07af31",
         "socials": [
             {
                 "name": "Twitter",
@@ -59,55 +53,76 @@
         "badges": [],
         "shortBio": "Brett is a developer relations engineer with Google Sydney, where he works on Google Maps APIs by day, and plays happily with Flutter by night. Brett has done everything from system administration of 25,000 user Solaris machines to designing e-commerce solutions for large Australian industrial suppliers.",
         "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fbrett_morgan.png?alt=media&token=12ce3caf-63ee-4c9e-96f9-ce8e770c7397",
-        "name": "Brett Morgan"
+        "name": "Brett Morgan",
+        "companyLogo": "/images/logos/google.svg",
+        "title": "Developer Relations Engineer",
+        "order": 2,
+        "featured": true,
+        "company": "Google",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/company_logos%2Fgoogle.svg?alt=media&token=fedcc460-8906-43ea-adc5-8ce0ac07af31"
     },
-    "elizabeth_wu": {
+    "dan_aschwanden": {
+        "shortBio": "Dan Aschwanden is a Cloud Consultant in Infrastructure and App Development within the Professional Services Organisation of Google Australia. In this role he helps customers to accelerate their journey to the cloud. Dan has over 15 years experience helping organisations across a wide range of industries including Telecommunications, Transportation, Financial Services and Healthcare solving their strategic challenges with building large scale systems.",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fdan_aschwanden.jpg?alt=media&token=8f0981c6-fdd5-42ce-b92c-62f08537d56f",
+        "name": "Dan Aschwanden",
+        "title": "Cloud Consultant",
         "order": 3,
         "featured": true,
-        "shortBio": "Elizabeth Wu is a Cloud Consultant in Big Data and Analytics within the Professional Services Organisaton of Google Australia. In this role she helps customers to accelerate their journey to the cloud. Elizabeth has over 10 years experience helping organisations across a wide range of industries including Government, Education, Financial Services, Utilities and Healthcare solve their strategic challenges by making their data accessible and useful.",
         "company": "Google",
         "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/company_logos%2Fgoogle.svg?alt=media&token=fedcc460-8906-43ea-adc5-8ce0ac07af31",
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Felizabeth_wu.jpg?alt=media&token=64c82feb-2f86-438c-b67e-336896f7cbb7",
+        "country": "Sydney, Australia",
         "socials": [
-            {
-                "name": "LinkedIn",
-                "icon": "linkedin",
-                "link": "https://www.linkedin.com/in/elizabethwu"
-            }
         ],
-        "name": "Elizabeth Wu",
-        "country": "Australia",
-        "bio": "Elizabeth Wu is a Cloud Consultant in Big Data and Analytics within the Professional Services Organisaton of Google Australia. In this role she helps customers to accelerate their journey to the cloud. Elizabeth has over 10 years experience helping organisations across a wide range of industries including Government, Education, Financial Services, Utilities and Healthcare solve their strategic challenges by making their data accessible and useful.",
-        "badges": [
-        ],
-        "title": "Cloud Consultant"
+        "bio": "Dan Aschwanden is a Cloud Consultant in Infrastructure and App Development within the Professional Services Organisation of Google Australia. In this role he helps customers to accelerate their journey to the cloud. Dan has over 15 years experience helping organisations across a wide range of industries including Telecommunications, Transportation, Financial Services and Healthcare solving their strategic challenges with building large scale systems.",
+        "badges": []
     },
-    "̈georgie_luhur_cooke": {
+    "elizabeth_wu": {
+        "badges": [],
+        "shortBio": "Elizabeth Wu is a Cloud Consultant in Big Data and Analytics within the Professional Services Organisaton of Google Australia. In this role she helps customers to accelerate their journey to the cloud. Elizabeth has over 10 years experience helping organisations across a wide range of industries including Government, Education, Financial Services, Utilities and Healthcare solve their strategic challenges by making their data accessible and useful.",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Felizabeth_wu.jpg?alt=media&token=64c82feb-2f86-438c-b67e-336896f7cbb7",
+        "name": "Elizabeth Wu",
+        "title": "Cloud Consultant",
         "order": 4,
         "featured": true,
-        "shortBio": "Georgie is a user interface engineer at Campaign Monitor and also co-organises the codebar Sydney meetup. She cares deeply about accessibility and semantic code, and is always keen to learn. She really enjoys blogging and writing about many topics, and is extremely passionate about bringing up other women in tech. She loves expressing herself through fashion, and embraces a minimalist lifestyle. In her spare time she is probably at the gym, enjoying nature, or blogging.",
-        "company": "Campaign Monitor",
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fgeorgie_luhur_cooke.jpg?alt=media&token=6834ae19-415c-4716-a1b9-76a839d9c710",
+        "company": "Google",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/company_logos%2Fgoogle.svg?alt=media&token=fedcc460-8906-43ea-adc5-8ce0ac07af31",
+        "country": "Australia",
         "socials": [
             {
-                "name": "Twitter",
-                "icon": "twitter",
-                "link": "https://twitter.com/georgiecel"
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/elizabethwu",
+                "name": "LinkedIn"
             }
         ],
-        "name": "Georgie Luhur Cooke",
-        "country": "Sydney, Australia",
-        "bio": "Georgie is a user interface engineer at Campaign Monitor and also co-organises the codebar Sydney meetup. She cares deeply about accessibility and semantic code, and is always keen to learn. She really enjoys blogging and writing about many topics, and is extremely passionate about bringing up other women in tech. She loves expressing herself through fashion, and embraces a minimalist lifestyle. In her spare time she is probably at the gym, enjoying nature, or blogging.",
-        "badges": [
-        ],
-        "title": "User interface engineer"
+        "bio": "Elizabeth Wu is a Cloud Consultant in Big Data and Analytics within the Professional Services Organisaton of Google Australia. In this role she helps customers to accelerate their journey to the cloud. Elizabeth has over 10 years experience helping organisations across a wide range of industries including Government, Education, Financial Services, Utilities and Healthcare solve their strategic challenges by making their data accessible and useful."
     },
-    "̈georgina_robilliard": {
+    "georgie_luhur_cooke": {
         "order": 5,
         "featured": true,
-        "shortBio": "Georgina builds happy and productive work environments. Formerly of Lookahead Search, currently Head of People and Culture at Insured By Us. Cheese, wine and sausage dog enthusiast.",
+        "company": "Campaign Monitor",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/company_logos%2Fcampaign_monitor.png?alt=media&token=7bb51e75-7203-49ec-a482-76acbbaaa209",
+        "country": "Sydney, Australia",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/georgiecel",
+                "name": "Twitter"
+            }
+        ],
+        "bio": "Georgie is a user interface engineer at Campaign Monitor and also co-organises the codebar Sydney meetup. She cares deeply about accessibility and semantic code, and is always keen to learn. She really enjoys blogging and writing about many topics, and is extremely passionate about bringing up other women in tech. She loves expressing herself through fashion, and embraces a minimalist lifestyle. In her spare time she is probably at the gym, enjoying nature, or blogging.",
+        "badges": [],
+        "shortBio": "Georgie is a user interface engineer at Campaign Monitor and also co-organises the codebar Sydney meetup. She cares deeply about accessibility and semantic code, and is always keen to learn. She really enjoys blogging and writing about many topics, and is extremely passionate about bringing up other women in tech. She loves expressing herself through fashion, and embraces a minimalist lifestyle. In her spare time she is probably at the gym, enjoying nature, or blogging.",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fgeorgie_luhur_cooke.jpg?alt=media&token=6834ae19-415c-4716-a1b9-76a839d9c710",
+        "name": "Georgie Luhur Cooke",
+        "title": "User interface engineer"
+    },
+    "georgina_robilliard": {
+        "title": "Head of People and Culture",
+        "order": 6,
+        "featured": true,
         "company": "Insured By Us",
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fgeorgina_robilliard.jpg?alt=media&token=f75c9222-f2c3-4aca-822d-a94579259b93",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/company_logos%2Fibu.png?alt=media&token=173d7287-70e3-4d9f-80a1-601298857d36",
+        "country": "Sydney, Australia",
         "socials": [
             {
                 "name": "Twitter",
@@ -115,20 +130,21 @@
                 "link": "https://twitter.com/GRobilliard"
             }
         ],
-        "name": "Georgina Robilliard",
-        "country": "Sydney, Australia",
         "bio": "Georgina builds happy and productive work environments. Formerly of Lookahead Search, currently Head of People and Culture at Insured By Us. Cheese, wine and sausage dog enthusiast.",
-        "badges": [
-        ],
-        "title": "Head of People and Culture"
+        "badges": [],
+        "shortBio": "Georgina builds happy and productive work environments. Formerly of Lookahead Search, currently Head of People and Culture at Insured By Us. Cheese, wine and sausage dog enthusiast.",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fgeorgina_robilliard.jpg?alt=media&token=f75c9222-f2c3-4aca-822d-a94579259b93",
+        "name": "Georgina Robilliard"
     },
     "graham_polley": {
-        "order": 6,
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fgraham_polley.jpg?alt=media&token=0a5df7b3-e513-4778-a8c1-eadfb41feb7c",
+        "name": "Graham Polley",
+        "title": "Software engineer",
+        "order": 7,
         "featured": true,
-        "shortBio": "Graham is a software engineer based out of Melbourne Australia. He's passionate about advocating for the adoption of cloud to build software solutions. An active member in the local community, he regularly blogs, gives presentations, and is a co-organiser of the Melbourne GCP user group. Graham has extensive experience in building data solutions for clients using GCP - in particular with BigQuery, Cloud Dataflow and Cloud Dataproc. He works very closely with the GCP engineering teams, where he's also a member of their cloud platform trusted tester program, and the solutions he helps build are used as internal exemplars of developer use cases.",
         "company": "Servian",
         "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/company_logos%2Fservian.jpeg?alt=media&token=fd8eb0c1-e8bb-4f6c-b12d-2239cbd273ac",
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fgraham_polley.jpg?alt=media&token=0a5df7b3-e513-4778-a8c1-eadfb41feb7c",
+        "country": "Melbourne, Australia",
         "socials": [
             {
                 "name": "Twitter",
@@ -136,25 +152,46 @@
                 "link": "https://twitter.com/polleyg"
             }
         ],
-        "name": "Graham Polley",
-        "country": "Melbourne, Australia",
         "bio": "Graham is a software engineer based out of Melbourne Australia. He's passionate about advocating for the adoption of cloud to build software solutions. An active member in the local community, he regularly blogs, gives presentations, and is a co-organiser of the Melbourne GCP user group. Graham has extensive experience in building data solutions for clients using GCP - in particular with BigQuery, Cloud Dataflow and Cloud Dataproc. He works very closely with the GCP engineering teams, where he's also a member of their cloud platform trusted tester program, and the solutions he helps build are used as internal exemplars of developer use cases.",
         "badges": [
             {
+                "link": "https://developers.google.com/experts/people/graham-polley",
                 "name": "gde",
-                "description": "Google Cloud Platform Google Developer Expert",
-                "link": "https://developers.google.com/experts/people/graham-polley"
+                "description": "Google Cloud Platform Google Developer Expert"
             }
         ],
-        "title": "Software engineer"
+        "shortBio": "Graham is a software engineer based out of Melbourne Australia. He's passionate about advocating for the adoption of cloud to build software solutions. An active member in the local community, he regularly blogs, gives presentations, and is a co-organiser of the Melbourne GCP user group. Graham has extensive experience in building data solutions for clients using GCP - in particular with BigQuery, Cloud Dataflow and Cloud Dataproc. He works very closely with the GCP engineering teams, where he's also a member of their cloud platform trusted tester program, and the solutions he helps build are used as internal exemplars of developer use cases."
+    },
+    "kai_koenig": {
+        "order": 8,
+        "featured": true,
+        "company": "Ventego Creative",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/company_logos%2Fventego_creative.jpg?alt=media&token=b9326617-0cbe-4192-950d-7f92b34f9394",
+        "country": "Wellington, New Zealand",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/agentK",
+                "name": "Twitter"
+            }
+        ],
+        "bio": "Kai works as a Software Solutions Architect for Ventego Creative in Wellington, New Zealand. He co-founded the company with two partners and is also the CTO of Zen Ex Machina, a startup in the fields of digital & user experience consultancy based out of Canberra in Australia. Kai's work comprises a mix of consulting, training, mentoring and actual development work using a range of technologies, common themes being Java, Android, Kotlin, CFML, JavaScript and others. Other stuff Kai occasionally does: Writes for magazines, produces a Podcast (2 Developers Down Under) with his friend Mark Mandel from Melbourne/San Francisco and since 2007 flies small, single- and twin-engine airplanes around New Zealand and sometimes Australia.",
+        "badges": [],
+        "shortBio": "Kai works as a Software Solutions Architect for Ventego Creative in Wellington, New Zealand. He co-founded the company with two partners and is also the CTO of Zen Ex Machina, a startup in the fields of digital & user experience consultancy based out of Canberra in Australia. Kai's work comprises a mix of consulting, training, mentoring and actual development work using a range of technologies, common themes being Java, Android, Kotlin, CFML, JavaScript and others. Other stuff Kai occasionally does: Writes for magazines, produces a Podcast (2 Developers Down Under) with his friend Mark Mandel from Melbourne/San Francisco and since 2007 flies small, single- and twin-engine airplanes around New Zealand and sometimes Australia.",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fkai_koenig.jpg?alt=media&token=58facd32-39d0-45b0-bf74-f5b9f76d4311",
+        "name": "Kai Koenig",
+        "title": "Owner and principal software solutions architect"
     },
     "sergii_kozyrev": {
-        "order": 7,
-        "featured": true,
         "shortBio": "Senior Android Engineer at Atlassian. Currently working in Mobile Core team ensuring our customers are getting best libraries and tools to solve their business needs. I use Java and Python and passionate about mobile development, ubiquitous computing, machine learning, augmented and virtual reality. I love the way technology can bring magic into our lives and love to share my thoughts on this with others :)",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fsergii_kozyrev.jpg?alt=media&token=3167db27-6dd9-44c7-a7ad-badb63aa64c1",
+        "name": "Sergii Kozyrev",
+        "title": "Senior software engineer",
+        "order": 9,
+        "featured": true,
         "company": "Atlassian",
         "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/company_logos%2Fatlassian.svg?alt=media&token=705f5e75-6daa-48aa-9cdd-76747f151e85",
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fsergii_kozyrev.jpg?alt=media&token=3167db27-6dd9-44c7-a7ad-badb63aa64c1",
+        "country": "Sydney, Australia",
         "socials": [
             {
                 "name": "Twitter",
@@ -162,10 +199,22 @@
                 "link": "https://twitter.com/kozyrevsergey89"
             }
         ],
-        "name": "Sergii Kozyrev",
-        "country": "Sydney, Australia",
         "bio": "Senior Android Engineer at Atlassian. Currently working in Mobile Core team ensuring our customers are getting best libraries and tools to solve their business needs. I use Java and Python and passionate about mobile development, ubiquitous computing, machine learning, augmented and virtual reality. I love the way technology can bring magic into our lives and love to share my thoughts on this with others :)",
-        "badges": [],
-        "title": "Senior software engineer"
+        "badges": []
+    },
+    "shan_ul_haq": {
+        "shortBio": "Shan is a Technical Lead at Tigerspike, a software development company, working on enterprise and consumer mobile applications. Perfection is his mantra in everything be it writing code or designing an architecture or something else. If he is not writing code for a project, he is busy automating the toolings and process for the development teams to keep engineers happy and make their life easier. Shan is a foodie and always in the hunt for delicious food. In his spare time, he can be found playing with his kids in a playground or hunting for some good food.",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fshan_ul_haq.jpeg?alt=media&token=a3b84eae-bbc5-4ae2-9c64-918200104e67",
+        "name": "Shan Ul Haq",
+        "title": "Technical Lead",
+        "order": 10,
+        "featured": true,
+        "company": "Tigerspike",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/company_logos%2Ftigerspike.png?alt=media&token=4c590f22-5239-4658-8666-6adf15b38002",
+        "country": "Sydney, Australia",
+        "socials": [
+        ],
+        "bio": "Shan is a Technical Lead at Tigerspike, a software development company, working on enterprise and consumer mobile applications. Perfection is his mantra in everything be it writing code or designing an architecture or something else. If he is not writing code for a project, he is busy automating the toolings and process for the development teams to keep engineers happy and make their life easier. Shan is a foodie and always in the hunt for delicious food. In his spare time, he can be found playing with his kids in a playground or hunting for some good food.",
+        "badges": []
     }
 }

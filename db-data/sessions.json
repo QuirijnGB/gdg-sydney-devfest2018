@@ -89,11 +89,46 @@
             "georgie_luhur_cooke"
         ]
     },
+    "009": {
+        "title": "Why a Whole Country Skipped a Day: Fun with Timezones and Locales",
+        "description": "The correct handling of timezones and locales is one of the most under-appreciated parts of software development. Commonly known as a part of internationalisation (i18n), a lot of people underestimate the impact that getting it wrong can have for your users as well as your systems. Drawn from experiences with working on a global network of backend systems, websites and mobile apps in more than 30 locales for the last 10 years, this talk will start with an introduction to the concepts behind time zones and locales. You’re going to learn about the history of time measurement and time synchronisation and how the world eventually ended up with the global system of time zones of today. Today’s model is full of interesting and sometimes outright bizarre quirks and you’ll look at some of best and worst of them. From there you’ll learn about the ideas behind locales and why cultural context is at least as important as a locale’s common collection of purely technical data such a number formats or text direction. After this, the talk will cover how common runtime environments like Android and Java represent these ideas. Technical topics covered are: How does the JVM deal with timezones and locales and in which way is this is handled differently on Android devices? What level of support and libraries does the Android SDK offer for Java and Kotlin? Ways to make your developer life supporting multi-lingual/-locale apps easier. How can you survive a \"WHAT? We have to support daylight-savings-time?\" request? Managing user expectations and dealing with changing timezones/locales at runtime . Eventually, it will be revealed why a whole country skipped a day and what they gained from going through this effort. Stay tuned!",
+        "complexity": "Beginner",
+        "tags": [
+            "Android",
+            "Web",
+            "Self and Team Improvement"
+        ],
+        "speakers": [
+            "kai_koenig"
+        ]
+    },
+    "010": {
+        "title": "De-obfuscating ProGuard",
+        "description": "ProGuard is a mystery/blackbox for most of the Android developers. This talk digs a bit deeper on the ProGuard DSL and the Android specific DSL that developers should know about.",
+        "complexity": "Beginner",
+        "tags": [
+            "Android"
+        ],
+        "speakers": [
+            "shan_ul_haq"
+        ]
+    },
+    "011": {
+        "title": "One Platform for Your Functions, Applications, and Containers",
+        "description": "Learn how you can unify function, application, and container developer workflows under a single API, making you more productive and your system easier to manage.",
+        "complexity": "Intermediate",
+        "tags": [
+            "Cloud"
+        ],
+        "speakers": [
+            "dan_aschwanden"
+        ]
+    },
     "132": {
         "description": "Get your badge, coffee, enjoy talking with tech edicts around",
         "icon": "registration",
         "title": "Registration & morning Coffee",
-        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe"
+        "image": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/gallery%2FIMG_20171125_083310.jpg?alt=media&token=a7d23281-6afc-4563-8a82-7cedb0a24789"
     },
     "133": {
         "icon": "lunch",
@@ -102,15 +137,15 @@
         "description": "Foooooooood!"
     },
     "134": {
-        "description": "Coffeeeeeee!",
+        "description": "With all this newly acquired knowledge, I'm sure you want to grab a drink and chat about it!",
         "icon": "coffee-break",
-        "title": "Coffee break",
+        "title": "Afternoon tea",
         "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7"
     },
     "135": {
-        "title": "Morning coffee",
+        "title": "Morning tea",
         "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fmorning.jpg?alt=media&token=d0da3d64-fc63-48c6-9d41-1460451dca64",
-        "description": "Coffeeeeeee!",
+        "description": "Grab yourself a refreshment and have a chat with people around you!",
         "icon": "coffee-break"
     },
     "136": {
