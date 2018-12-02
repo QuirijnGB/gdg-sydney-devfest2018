@@ -124,6 +124,20 @@
             "dan_aschwanden"
         ]
     },
+    "012": {
+        "title": "Functional Programming in Kotlin with Arrow",
+        "description": "Kotlin is a great language to introduce functional programming methods into your workflow. Arrow provides a number of abstractions to make the code you write safer to deploy and reuse. This talk will introduce the Arrow library and its use in Kotlin, from abstracting over list based data structures to normalising code between rx, observable and reactive API's. Attendees will learn how to solve common problems using functional programming and why it can be a powerful approach. The talk requires some familiarity with Kotlin, but Java or non-jvm developers won't be missing much.",
+        "complexity": "Intermediate",
+        "tags": [
+            "Cloud", 
+            "Web",
+            "Android", 
+            "Functional Programming"
+        ],
+        "speakers": [
+            "jacob_bass"
+        ]
+    },
     "132": {
         "description": "Get your badge, coffee, enjoy talking with tech edicts around",
         "icon": "registration",
@@ -168,7 +182,10 @@
     },
     "139": {
         "description": "",
-        "title": "Keynote"
+        "title": "Keynote",
+        "speakers":[
+            "lyndon_maher"
+        ]
     },
     "140": {
         "title": "TBD",

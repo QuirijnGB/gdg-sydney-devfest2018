@@ -162,8 +162,28 @@
         ],
         "shortBio": "Graham is a software engineer based out of Melbourne Australia. He's passionate about advocating for the adoption of cloud to build software solutions. An active member in the local community, he regularly blogs, gives presentations, and is a co-organiser of the Melbourne GCP user group. Graham has extensive experience in building data solutions for clients using GCP - in particular with BigQuery, Cloud Dataflow and Cloud Dataproc. He works very closely with the GCP engineering teams, where he's also a member of their cloud platform trusted tester program, and the solutions he helps build are used as internal exemplars of developer use cases."
     },
-    "kai_koenig": {
+    "jacob_bass": {
         "order": 8,
+        "featured": true,
+        "company": "Ordermentum",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/company_logos%2Fordermentum.png?alt=media&token=5a1a60dd-46b8-4c88-8bf3-13ab8aa80bf0",
+        "country": "Sydney, Australia",
+        "socials": [
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/bassjacob",
+                "name": "Twitter"
+            }
+        ],
+        "bio": "Jacob’s first introduction to programming was automating Excel spreadsheets because he was too lazy to copy-paste. His interest in doing more by typing less led him to web-development, where he mostly develops tools and libraries for teams to use internally. He leads the engineering team at Ordermentum.",
+        "badges": [],
+        "shortBio": "Jacob’s first introduction to programming was automating Excel spreadsheets because he was too lazy to copy-paste. His interest in doing more by typing less led him to web-development, where he mostly develops tools and libraries for teams to use internally. He leads the engineering team at Ordermentum.",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fjacob_bass.jpg?alt=media&token=63596391-26fe-4e04-b732-85d855314e98",
+        "name": "Jacob Bass",
+        "title": "Head of Engineering"
+    },
+    "kai_koenig": {
+        "order": 9,
         "featured": true,
         "company": "Ventego Creative",
         "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/company_logos%2Fventego_creative.jpg?alt=media&token=b9326617-0cbe-4192-950d-7f92b34f9394",
@@ -183,7 +203,7 @@
         "title": "Owner and principal software solutions architect"
     },
     "lyndon_maher": {
-        "order": 9,
+        "order": 10,
         "featured": true,
         "company": "Lyndon Maher",
         "country": "Sydney, Australia",
@@ -206,7 +226,7 @@
         "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fsergii_kozyrev.jpg?alt=media&token=3167db27-6dd9-44c7-a7ad-badb63aa64c1",
         "name": "Sergii Kozyrev",
         "title": "Senior software engineer",
-        "order": 10,
+        "order": 11,
         "featured": true,
         "company": "Atlassian",
         "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/company_logos%2Fatlassian.svg?alt=media&token=705f5e75-6daa-48aa-9cdd-76747f151e85",
@@ -226,7 +246,7 @@
         "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/speakers%2Fshan_ul_haq.jpeg?alt=media&token=a3b84eae-bbc5-4ae2-9c64-918200104e67",
         "name": "Shan Ul Haq",
         "title": "Technical Lead",
-        "order": 11,
+        "order": 12,
         "featured": true,
         "company": "Tigerspike",
         "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-sydney-devfest2018.appspot.com/o/company_logos%2Ftigerspike.png?alt=media&token=4c590f22-5239-4658-8666-6adf15b38002",
